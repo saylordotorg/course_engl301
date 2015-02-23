@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL301: Introduction to Literary Theory"
+course_description: "A detailed survey of the field of literary theory. Examines and explicates a wide-range of literary theories, including formalism, psychoanalytic theory, Marxist theory, feminist theory, queer theory, deconstruction, semiotics, and recent trends in literary theory."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Feminism, Gender, and Queer Theory** <span id="4"></span> 
 *In this unit, you will examine various forms of feminist and gender
 theories, recognizing the ways in which categories of gender and sex

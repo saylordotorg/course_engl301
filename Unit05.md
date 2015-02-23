@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL301: Introduction to Literary Theory"
+course_description: "A detailed survey of the field of literary theory. Examines and explicates a wide-range of literary theories, including formalism, psychoanalytic theory, Marxist theory, feminist theory, queer theory, deconstruction, semiotics, and recent trends in literary theory."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Marxism, Ideology, and Materialism** <span id="5"></span> 
 *In this unit, you will examine approaches to literature that are
 largely sociological in nature, as many of the thinkers you are about to

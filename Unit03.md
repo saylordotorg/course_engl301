@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL301: Introduction to Literary Theory"
+course_description: "A detailed survey of the field of literary theory. Examines and explicates a wide-range of literary theories, including formalism, psychoanalytic theory, Marxist theory, feminist theory, queer theory, deconstruction, semiotics, and recent trends in literary theory."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Post-Structuralisms** <span id="3"></span> 
 *As denoted by the plural nature of this unit’s title, poststructuralism
 is a less-unified theoretical movement than its precursors. Perhaps this
