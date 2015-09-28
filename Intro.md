@@ -135,3 +135,4 @@ materials:
 - [Unit 6](https://legacy.saylor.org/engl301/Unit06/)
 - [Unit 7](https://legacy.saylor.org/engl301/Unit07/)
 - [Unit 8](https://legacy.saylor.org/engl301/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL301/ENGL301-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL301/ENGL301-FinalExam-Answers.html)
