@@ -84,7 +84,7 @@ Upon successful completion of this unit, you will be able to:
     Party”](http://www.marxists.org/archive/marx/works/1848/communist-manifesto/index.htm) (HTML)
     and The Saylor Foundation’s *An Introduction to Literary Theory*
     Coursepack: [“Marxist
-    Theory”](http://www.saylor.org/site/wp-content/uploads/2011/09/ENGL301-Marxist-Theory.pdf) (PDF)  
+    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ENGL301-Marxist-Theory.pdf) (PDF)  
       
      **“Manifesto of the Communist Party” (The Communist Manifesto)**
     also is available in:  
@@ -170,7 +170,7 @@ Upon successful completion of this unit, you will be able to:
 
     Link: The University of Toronto: Greig E. Henderson and Christopher
     Brown’s *Glossary of Literary Theory*: [“Dialectical
-    Criticism”](http://www.saylor.org/site/wp-content/uploads/2011/04/Dialectical-Criticism.pdf) (PDF)  
+    Criticism”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Dialectical-Criticism.pdf) (PDF)  
         
      Instructions: Read the definition of *dialectical criticism* for a
     discussion of the term as it relates to Marxist literary theory.  
@@ -334,7 +334,7 @@ Thought** <span id="5.2.3"></span> 
     Act”](http://courses.wcupa.edu/fletcher/special/jameson.htm) (HTML);
     and The Saylor Foundation’s *An Introduction to Literary Theory*
     Coursepack: [“Fredric Jameson’s
-    Post-Marxism”](http://www.saylor.org/site/wp-content/uploads/2011/09/ENGL301-Frederic-Jameson.pdf) (PDF)  
+    Post-Marxism”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ENGL301-Frederic-Jameson.pdf) (PDF)  
         
     Instructions: Access the readings, beginning with the excerpt from
     Jameson’s *The Political Unconscious*, which establishes a structure
@@ -398,7 +398,7 @@ Bakhtin** <span id="5.3"></span> 
     Circle”](http://www.iep.utm.edu/bakhtin/) (HTML); and The Saylor
     Foundation’s *An Introduction to Literary Theory* Coursepack:
     [“Bakhtin and the
-    Carnivalesque”](http://www.saylor.org/site/wp-content/uploads/2011/09/ENGL301-Bahktin-and-the-Carnivalesque.pdf) (PDF)  
+    Carnivalesque”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ENGL301-Bahktin-and-the-Carnivalesque.pdf) (PDF)  
         
      Instructions: Access the readings, beginning with the *Internet
     Encyclopedia of Philosophy’s* entry on Bakhtin, for a summary of his
@@ -458,13 +458,13 @@ id="5.3.2"></span> 
     Prejudice”**
 
     Link: The Saylor Foundation’s “Mikhail Bakhtin’s [‘Discourse in the
-    Novel’](http://www.saylor.org/site/wp-content/uploads/2011/10/ENGL301-Bakhtin.pdf)”
+    Novel’](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ENGL301-Bakhtin.pdf)”
     (PDF); Project Gutenberg’s
     [version](http://www.gutenberg.org/files/1342/1342-h/1342-h.htm) of
     Jane Austen’s *Pride and Prejudice* (HTML); and The Saylor
     Foundation’s *An Introduction to Literary Theory*
     Coursepack: [*“Applying Theory to Jane Austen’s* *Pride and
-    Prejudice”*](http://www.saylor.org/site/wp-content/uploads/2011/09/ENGL301-Applying-Theory-to-Jane-Austen.pdf) (PDF)  
+    Prejudice”*](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ENGL301-Applying-Theory-to-Jane-Austen.pdf) (PDF)  
         
      Instructions: Access the readings, beginning with the Saylor
     Foundation’s excerpts from Bakhtin’s essay “Discourse in the Novel,”

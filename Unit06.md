@@ -73,7 +73,7 @@ Upon successful completion of this unit, you will be able to:
 
     Link: The University of Toronto: Greig E. Henderson and Christopher
     Brown’s *Glossary of Literary
-    Theory*: [“Phenomenology”](http://www.saylor.org/site/wp-content/uploads/2011/04/Phenomology.pdf) (PDF)
+    Theory*: [“Phenomenology”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Phenomology.pdf) (PDF)
     and The University of Tennessee’s *Internet Encyclopedia of
     Philosophy*: Dr. Marianne Sawicki’s [“Edmund
     Husserl”](http://www.iep.utm.edu/husserl/) (HTML)  
@@ -104,7 +104,7 @@ id="6.1.2"></span> 
 
     Link: The University of Toronto: Greig E. Henderson and Christopher
     Brown’s *Glossary of Literary Theory*: [“Geneva
-    School”](http://www.saylor.org/site/wp-content/uploads/2011/04/Geneva-School.pdf) (PDF)  
+    School”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Geneva-School.pdf) (PDF)  
       
      Instructions: Read the brief definition of the *Geneva School* for
     a basic introduction to this school and its theories.  
@@ -184,7 +184,7 @@ id="6.1.2"></span> 
 
     Link: The University of Toronto: Greig E. Henderson and Christopher
     Brown’s *Glossary of Literary
-    Theory*: [“Hermeneutics”](http://www.saylor.org/site/wp-content/uploads/2011/04/Hermeneutics.pdf) (PDF)  
+    Theory*: [“Hermeneutics”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Hermeneutics.pdf) (PDF)  
       
      Instructions: Read the encyclopedia definition of *hermeneutics*
     for a brief introduction to the theory.
@@ -296,7 +296,7 @@ id="6.2.2"></span> 
     Event”](http://www.csun.edu/~krowlands/Content/Academic_Resources/Literature/Literature_Instruction.html) (PDF);
     and The University of Toronto: Greig E. Henderson and Christopher
     Brown’s *Glossary of Literary Theory*: [“Reader-Response
-    Criticism”](http://www.saylor.org/site/wp-content/uploads/2011/04/Reader-Response-Criticism.pdf) (PDF)  
+    Criticism”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Reader-Response-Criticism.pdf) (PDF)  
       
      Instructions: Access the readings, beginning with Louise
     M.Rosenblatt’s essay “The Poem as Event,” which you can download by
@@ -332,7 +332,7 @@ and Text** <span id="6.3.2"></span> 
 
     Link: The University of Toronto: Greig E. Henderson and Christopher
     Brown’s *Glossary of Literary Theory*: [“Implied
-    Reader”](http://www.saylor.org/site/wp-content/uploads/2011/04/Implied-Reader.pdf) (PDF)  
+    Reader”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Implied-Reader.pdf) (PDF)  
       
      Instructions: Read the short glossary definition of *implied
     reader* for a brief discussion of Wolfgang Iser’s concept of the

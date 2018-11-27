@@ -259,9 +259,9 @@ Reading** <span id="2.2.3"></span> 
 
     Link: The University of Toronto: Greig E. Henderson and Christopher
     Brown’s *Glossary of Literary Theory*: [“Affective
-    Fallacy”](http://www.saylor.org/site/wp-content/uploads/2011/04/Affective-Fallacy.pdf) (PDF)
+    Fallacy”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Affective-Fallacy.pdf) (PDF)
     and [“Intentional
-    Fallacy”](http://www.saylor.org/site/wp-content/uploads/2011/04/Intentional-Fallacy.pdf) (PDF);
+    Fallacy”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Intentional-Fallacy.pdf) (PDF);
     Southern Methodist University’s version of William Wimsatt and
     Monroe Beardsley’s [“The Intentional
     Fallacy”](http://faculty.smu.edu/nschwart/seminar/Fallacy.htm) (HTML)  
@@ -389,7 +389,7 @@ Reading** <span id="2.2.3"></span> 
     Philosophy:* *Dr.* Vince Brewton’s [“Structuralism and
     Poststructuralism”](http://www.iep.utm.edu/literary/#H5) (HTML) and
     The Saylor Foundation’s "[Modernism, Formalism, and
-    Structuralism](http://www.saylor.org/site/wp-content/uploads/2013/07/ENGL301-OC-Structuralism_Modernism-FINAL.pdf)"
+    Structuralism](https://resources.saylor.org/archived/wp-content/uploads/2013/07/ENGL301-OC-Structuralism_Modernism-FINAL.pdf)"
     (PDF)  
       
     Instructions: First, read the section titled “Structuralism and
@@ -423,7 +423,7 @@ id="2.3.2"></span> 
     Linguistics”](http://evans-experientialism.freewebspace.com/saussure.htm) (HTML)
     and The Saylor Foundation’s *An Introduction to Literary Theory*
     Coursepack: [“De Saussure’s Linguistic
-    Theories”](http://www.saylor.org/site/wp-content/uploads/2011/09/ENGL301-De-Saussures-Liguistic-Theories.pdf) (PDF)  
+    Theories”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ENGL301-De-Saussures-Liguistic-Theories.pdf) (PDF)  
         
     Instructions: First, read the introductory chapter from Ferdinand de
     Saussure’s *Third Course of Lectures on General Linguistics*, which

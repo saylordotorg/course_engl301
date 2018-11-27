@@ -77,10 +77,10 @@ Upon successful completion of this unit, you will be able to:
 
     Link: The University of Toronto: Greig E. Henderson and Christopher
     Brown’s *Glossary of Literary Theory*: [“New
-    Historicism”](http://www.saylor.org/site/wp-content/uploads/2011/04/New-Historicism.pdf) (HTML)
+    Historicism”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/New-Historicism.pdf) (HTML)
     and The Saylor Foundation’s *An Introduction to Literary Theory*
     Coursepack: [“New
-    Historicism”](http://www.saylor.org/site/wp-content/uploads/2011/09/ENGL301-New-Historicism.pdf) (PDF)  
+    Historicism”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ENGL301-New-Historicism.pdf) (PDF)  
       
      Instructions: Access the readings, beginning with the entire
     *Glossary of Literary Theory* article on *New Historicism* for an
@@ -266,7 +266,7 @@ id="7.2.2"></span> 
     Studies”](http://www.english.emory.edu/Bahri/Intro.html) and The
     Saylor Foundation’s *An Introduction to Literary Theory* Coursepack:
     [“Postcolonial
-    Theory”](http://www.saylor.org/site/wp-content/uploads/2011/09/ENGL301-Post-Colonial.pdf) (PDF)  
+    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ENGL301-Post-Colonial.pdf) (PDF)  
         
      Instructions: Begin by re-reading Deepika Bahri’s “Introduction to
     Postcolonial Studies” for a review of the basic concepts of
@@ -303,7 +303,7 @@ id="7.2.2"></span> 
     Africa”](http://web.cocc.edu/cagatucci/classes/eng109/achebeonconrad.htm) (HTML);
     and The Saylor Foundation’s *An Introduction to Literary Theory*
     Coursepack: [*“Applying Theory to Joseph Conrad’s* *Heart of
-    Darkness”*](http://www.saylor.org/site/wp-content/uploads/2011/09/ENGL301-Applying-Theory-to-Joseph-Conrad.pdf) (PDF)  
+    Darkness”*](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ENGL301-Applying-Theory-to-Joseph-Conrad.pdf) (PDF)  
         
      Instructions: Begin with chapters 1-3 of Joseph Conrad’s *Heart of
     Darkness*, a text that is often viewed through a postcolonial lens.

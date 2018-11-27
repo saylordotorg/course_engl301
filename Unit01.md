@@ -46,7 +46,7 @@ id="1.1"></span> 
     Theory?”](http://www.iep.utm.edu/literary/#H1) (HTML) and The Saylor
     Foundation’s *An Introduction to Literary Theory* Coursepack: [“An
     Introduction to Literary Theory and
-    Criticism”](http://www.saylor.org/site/wp-content/uploads/2011/09/ENGL301-An-Introduction-to-Literary-Criticism-and-Theory.pdf) (PDF)  
+    Criticism”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ENGL301-An-Introduction-to-Literary-Criticism-and-Theory.pdf) (PDF)  
       
      Instructions: Read the section titled “What Is Literary Theory?”
     from the *Internet Encyclopedia of Philosophy’s “*Literary Theory”
@@ -108,7 +108,7 @@ id="1.1"></span> 
     [*Poetics* ](http://classics.mit.edu/Aristotle/poetics.html)(HTML); The
     Saylor Foundation’s *An Introduction to Literary Theory* Coursepack:
     [“The Early Origins of Literary Theory: Plato and
-    Aristotle”](http://www.saylor.org/site/wp-content/uploads/2011/09/ENGL301-The-Early-Origins-of-Literary-Theory.pdf) (PDF)  
+    Aristotle”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ENGL301-The-Early-Origins-of-Literary-Theory.pdf) (PDF)  
         
      *The Poetics* is also available in:  
      [Google
@@ -123,7 +123,7 @@ id="1.1"></span> 
     in society. The Saylor Foundation’s *An Introduction to Literary
     Theory* Coursepack may be downloaded at the top of this course, or
     the section titled [“The Early Origins of Literary Theory: Plato and
-    Aristotle”](http://www.saylor.org/site/wp-content/uploads/2011/09/ENGL301-The-Early-Origins-of-Literary-Theory.pdf) may
+    Aristotle”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ENGL301-The-Early-Origins-of-Literary-Theory.pdf) may
     be downloaded from the link above. Read that section and answer the
     study questions provided at the end of the section.  
       
