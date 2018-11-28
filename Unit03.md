@@ -96,13 +96,13 @@ Upon successful completion of this unit, you will be able to:
     to Literary Theory Coursepack: “Roland Barthes’s Semiotics”**
     Link: The University of Toronto: Greig E. Henderson and Christopher
     Brown’s *Glossary of Literary Theory*:
-    [“Semiotics”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Semiotics.pdf) (PDF);
+    [“Semiotics”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Semiotics.pdf) (PDF);
     Athenaeum Library of Philosophy’s version of Roland Barthes’s
     *[Elements of
     Semiology](http://evans-experientialism.freewebspace.com/barthes03.htm) *(HTML);
     and The Saylor Foundation’s *An Introduction to Literary Theory*
     Coursepack: “[Roland Barthes’s
-    Semiotics](https://resources.saylor.org/archived/wp-content/uploads/2013/07/ENGL301-Roland-Barthes%E2%80%99s-Semiotics.pdf)”
+    Semiotics](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/ENGL301-Roland-Barthes%E2%80%99s-Semiotics.pdf)”
     (PDF)  
       
 
@@ -169,7 +169,7 @@ id="3.1.2"></span> 
 
     Link: The University of Toronto: Greig E. Henderson and Christopher
     Brown’s *Glossary of Literary
-    Theory*: [“Intertextuality”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/intertextuality.pdf) (PDF)
+    Theory*: [“Intertextuality”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/intertextuality.pdf) (PDF)
     and Aberystwyth University: Dr. Daniel Chandler’s *Semiotics for
     Beginners*:
     [“Intertextuality”](http://www.aber.ac.uk/media/Documents/S4B/sem09.html) (HTML)  
@@ -289,10 +289,10 @@ Sanders Peirce** <span id="3.1.5"></span> 
     Coursepack: “Derrida and Deconstruction”**
     Link: The University of Toronto: Greig E. Henderson and Christopher
     Brown’s *Glossary of Literary
-    Theory*: [“Deconstruction”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/ENGL301-3.2.1-Glossary-of-Literary-Theory.pdf) (PDF)
+    Theory*: [“Deconstruction”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/ENGL301-3.2.1-Glossary-of-Literary-Theory.pdf) (PDF)
     and The Saylor Foundation’s *An Introduction to Literary Theory*
     Coursepack: [“Derrida and
-    Deconstruction”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ENGL301-Derrida-and-Deconstruction.pdf) (PDF)  
+    Deconstruction”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/ENGL301-Derrida-and-Deconstruction.pdf) (PDF)  
       
      Instructions: Begin with a definition of *deconstruction* that
     provides an overview of the term as it is used in literary theory.
@@ -500,7 +500,7 @@ Unconscious** <span id="3.3.1"></span> 
     Sigmund Freud’s *A Philosophy of Life: New Introductory Lectures on
     Psycho-analysis* (HTML); and The Saylor Foundation’s *An
     Introduction to Literary Theory* Coursepack: [“Psychoanalytic
-    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ENGL301-Psychoanalytic-Theory.pdf) (PDF)  
+    Theory”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/ENGL301-Psychoanalytic-Theory.pdf) (PDF)  
         
     Instructions: First, read the brief articles on psychoanalytic
     criticism and Sigmund Freud; then read Freud’s lecture, which
@@ -645,7 +645,7 @@ id="3.3.4"></span> 
 
     Link: The Saylor Foundation’s *An Introduction to Literary Theory*
     Coursepack: [“Lacan and the Mirror
-    Stage”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ENGL301-Lacan-and-the-Mirror-Stage.pdf) (PDF)  
+    Stage”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/ENGL301-Lacan-and-the-Mirror-Stage.pdf) (PDF)  
       
     Instructions: The coursepack may be downloaded at the top of this
     course, or the section titled “Lacan and the Mirror Stage” may be
