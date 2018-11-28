@@ -64,7 +64,7 @@ Upon successful completion of this unit, you will be able to:
     id="cke_bm_556S" style="display: none;"> </span>Link: The Saylor
     Foundation’s *An Introduction to Literary Theory* Coursepack:
     [“Ecocriticism and
-    Ecotheory”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ENGL301-Eco-Criticism.pdf) (PDF)
+    Ecotheory”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/ENGL301-Eco-Criticism.pdf) (PDF)
 
        
      Instructions: Read the Saylor Foundation’s overview of ecocriticism
@@ -114,7 +114,7 @@ Upon successful completion of this unit, you will be able to:
     Sanctuary”](http://www.genders.org/g42/g42_stringer.html) (HTML) and
     The Saylor Foundation’s *An Introduction to Literary Theory*
     Coursepack: [“Trauma
-    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ENGL301-Trauma-Theory.pdf) (PDF)  
+    Theory”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ENGL301-Trauma-Theory.pdf) (PDF)  
         
     Instructions: Begin with the journal article titled “Trauma Studies
     and Faulkner’s Sanctuary.” You can download the Saylor Foundation’s
@@ -143,7 +143,7 @@ Upon successful completion of this unit, you will be able to:
     Theory”**
 
     Link: The Saylor Foundation’s [“Chaos Theory as Literary
-    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ENGL301-Unit-8.1.3-Chaos-Theory-as-Literary-Theory.pdf) (PDF)  
+    Theory”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ENGL301-Unit-8.1.3-Chaos-Theory-as-Literary-Theory.pdf) (PDF)  
       
 
     Instructions: Read the Saylor Foundation’s “Chaos Theory as Literary
@@ -178,7 +178,7 @@ id="8.2"></span> 
     Theory”](http://www.thenation.com/article/business-theory) (HTML);
     and The Saylor Foundation’s *An Introduction to Literary Theory*
     Coursepack: [“Arguments against
-    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ENGL301-Arguments-against-Theory.pdf) (PDF)  
+    Theory”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/ENGL301-Arguments-against-Theory.pdf) (PDF)  
         
     Instructions: Read Ricks’s essay and Deresiewicz’s article, followed
     by Saylor’s article summarizing arguments against literary theory.
@@ -212,7 +212,7 @@ id="8.2"></span> 
 
     Link: The Saylor Foundation’s *An Introduction to Literary Theory*
     Coursepack: [“New Frontiers in Literary
-    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ENGL301-New-Frontiers-in-Literary-Theory.pdf) (PDF);
+    Theory”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/ENGL301-New-Frontiers-in-Literary-Theory.pdf) (PDF);
     *Canadian Review of Comparative Literature* 33, no. 3-4 (2006): Dr.
     Andrzej Warminski’s [“The Future Past of Literary
     Theory”](http://ejournals.library.ualberta.ca/index.php/crcl/article/view/10704/8261) (PDF);

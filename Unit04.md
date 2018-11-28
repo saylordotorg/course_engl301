@@ -109,7 +109,7 @@ id="4.1.1"></span> 
     Feminism”](http://plato.stanford.edu/entries/feminism-approaches/) (HTML)
     and The Saylor Foundation’s *An Introduction to Literary Theory*
     Coursepack: [“Introduction to Feminist
-    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ENGL301-Introduction-to-Feminist-Theory.pdf) (PDF)  
+    Theory”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/ENGL301-Introduction-to-Feminist-Theory.pdf) (PDF)  
       
     Instructions: Access the readings, starting with Dr. Tuana’s
     encyclopedia article, which provides a discussion of feminism and
@@ -208,7 +208,7 @@ Cixous, and Julia Kristeva** <span id="4.1.4"></span> 
     Dr. Sarah K. Donovan’s “Luce**
     Link: The University of Toronto: Greig E. Henderson and Christopher
     Brown’s *Glossary of Literary Theory*: [“Feminist
-    Criticism”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/feminist-criticism.pdf) (PDF);
+    Criticism”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/feminist-criticism.pdf) (PDF);
     Virginia Tech’s Center for Digital Discourse and Culture: Dr.
     Kristin Switala’s *Feminist Theory Website*: Dr. Kelly Oliver’s
     [“Julia
@@ -361,9 +361,9 @@ id="4.2.3"></span> 
 
     Link: The University of Toronto: Greig E. Henderson and Christopher
     Brown’s *Glossary of Literary Theory*: [“Speech Act
-    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Speech-Act-Theory.pdf) (PDF)
+    Theory”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Speech-Act-Theory.pdf) (PDF)
     and
-    [“Langue/Parole”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/ENGL301-Langue-4.2.3.pdf) (PDF)  
+    [“Langue/Parole”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/07/ENGL301-Langue-4.2.3.pdf) (PDF)  
         
      Instructions: Read the glossary’s two entries, which provide an
     excellent review of J.L. Austin’s ideas as well as a further
@@ -439,7 +439,7 @@ id="4.3.1"></span> 
     Politics”](http://plato.stanford.edu/entries/identity-politics/) (HTML)
     and The Saylor Foundation’s *An Introduction to Literary Theory*
     Coursepack: [“Queer
-    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ENGL301-Queer-Theory.pdf) (PDF)  
+    Theory”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/ENGL301-Queer-Theory.pdf) (PDF)  
         
     Instructions: Access the readings, beginning with the *The Stanford
     Encyclopedia of Philosophy*’s entry titled “Identity Politics.” In
